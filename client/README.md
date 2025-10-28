@@ -1,4 +1,3 @@
-
 # QuickBlog
 
 **QuickBlog** is a full-stack blogging platform that lets users create, explore, and share blogs across categories like tech, fitness, lifestyle, and more.
@@ -34,4 +33,4 @@ Users can write posts with titles, subtitles, and images, and the app automatica
 ![Comments Section](Screenshots/Comment.png) 
 ![Dashboard](Screenshots/Dashboard.png)      
 
->
+
