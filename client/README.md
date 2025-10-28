@@ -27,10 +27,10 @@ Users can write posts with titles, subtitles, and images, and the app automatica
 ## Screenshots
 
 
-![Home Page](client\Screenshots\Home.png)  
-![Create Blog](client\Screenshots\AddBlog.png)   
-![Blog Details](client\Screenshots\Homepage.png) 
-![Comments Section](client\Screenshots\Comment.png) 
-![Dashboard](client\Screenshots\Dashboard.png)      
+![Home Page](client/Screenshots/Home.png)  
+![Create Blog](client/Screenshots/AddBlog.png)   
+![Blog Details](client/Screenshots/Homepage.png) 
+![Comments Section](client/Screenshots/Comment.png) 
+![Dashboard](client/Screenshots/Dashboard.png)      
 
 
